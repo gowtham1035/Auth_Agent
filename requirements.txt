@@ -60,7 +60,6 @@ jiter==0.8.0
 joblib==1.4.2
 keras==3.7.0
 keyring==23.5.0
-language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
